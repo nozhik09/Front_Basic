@@ -1,0 +1,14 @@
+img {
+    height: 400px;
+
+}
+
+.headline {
+    color: rgb(13, 231, 111);
+    font-size: 40px;
+    text-decoration: underline;
+}
+.sunheader {
+border: 1px solid #FF6850;
+
+}

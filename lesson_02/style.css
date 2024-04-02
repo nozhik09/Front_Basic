@@ -1,0 +1,38 @@
+* {
+    color: brown;
+}
+
+body {
+    margin: 8px;
+}
+header{
+    border-radius: 10px;
+    border: 2px dashed darkred;
+}
+
+
+
+footer {
+    border: 1px solid darkgray;
+}
+
+#heading {
+
+    color: black;
+}
+
+
+
+h1 {
+    color: blue;
+}
+
+
+
+.sectionFirst {
+    color: brown;
+}
+
+.section2 {
+    font-size: 40px;
+}
