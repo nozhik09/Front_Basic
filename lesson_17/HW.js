@@ -22,5 +22,4 @@ constructor(age, height,numberOfFlowers){
 const rose  = new Rose(1,90,1)
 
 rose.grow()
-
 console.log(rose)
